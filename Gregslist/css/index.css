@@ -2,17 +2,17 @@
     box-sizing: border-box;
 }
 
-header {
-	position: fixed;
-	padding: 10px;
-	background-color: silver;
-	border-bottom: 1px sold black;
-}
-
 body {
     margin: 0;
     padding: 80px;
     font-family: "Roboto", sans-serif;
+}
+
+header {
+	position: fixed;
+	padding: 10px;
+	background-color: silver;
+	border-bottom: 1px solid black;
 }
 
 .top-nav {
