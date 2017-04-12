@@ -10,16 +10,13 @@ body {
 
 header {
 	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
 	padding: 10px;
 	background-color: silver;
 	border-bottom: 1px solid black;
 }
 
 .top-nav {
-	position: fixed;
+	position: absolute;
 	right: 10px;
 	top: 10px;
 }
