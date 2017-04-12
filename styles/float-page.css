@@ -13,9 +13,14 @@ main {
 
 .left {
 	float: left;
-	margin: 15px;
+	margin: 10px;
 }
 
 .medium {
 	width: 300px;
+}
+
+.right {
+  float: right;
+  margin: 10px;
 }
