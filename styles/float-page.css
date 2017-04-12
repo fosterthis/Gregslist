@@ -11,11 +11,11 @@ main {
   margin-right: auto;
 }
 
-left {
+.left {
 	float: left;
 	margin: 15px;
 }
 
-medium {
+.medium {
 	width: 300px;
 }
